@@ -21,7 +21,7 @@ const Header = () => {
           <div className="flex items-center gap-4 xl:gap-6">
             <div className="flex items-center gap-2 text-muted-foreground">
               <Phone className="w-4 h-4" />
-              <span className="hidden xl:inline">(020) 123-4567</span>
+              <span className="hidden xl:inline">(040) 2257997</span>
               <span className="lg:inline xl:hidden">Call Us</span>
             </div>
             <div className="flex items-center gap-2 text-muted-foreground">
@@ -88,7 +88,7 @@ const Header = () => {
             <div className="mb-6 pb-4 border-b border-border space-y-3 sm:hidden">
               <div className="flex items-center gap-3 text-sm text-muted-foreground">
                 <Phone className="w-4 h-4" />
-                <span>(020) 123-4567</span>
+                <span>(040) 2257997</span>
               </div>
               <div className="flex items-center gap-3 text-sm text-muted-foreground">
                 <Mail className="w-4 h-4" />
