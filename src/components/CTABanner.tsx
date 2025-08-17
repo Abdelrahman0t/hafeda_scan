@@ -22,7 +22,7 @@ const CTABanner = () => {
             </Button>
             <Button variant="outline" size="lg" className="w-full sm:w-auto border-accent-foreground text-accent-foreground hover:bg-accent-foreground hover:text-accent">
               <Phone className="w-5 h-5 mr-2" />
-              Call Now: (020) 123-4567
+              Call Now: (040) 2257997
             </Button>
           </div>
 
