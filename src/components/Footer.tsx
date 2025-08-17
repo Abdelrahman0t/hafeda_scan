@@ -25,7 +25,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-2 sm:gap-3">
                 <MapPin className="w-4 h-4 sm:w-5 sm:h-5 text-accent flex-shrink-0" />
-                <span className="text-sm sm:text-base">Tanta University Medical Center, Tanta, Egypt</span>
+                <span className="text-sm sm:text-base">Midan Al-Bandar, El-Mahalla El-Kubra, Egypt, 31951</span>
               </div>
             </div>
           </div>
